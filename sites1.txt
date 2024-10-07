@@ -1,0 +1,16 @@
+*.cnn.com
+*.facebook.com
+*.instagram.com
+*.linkedin.com
+*.nytimes.com
+*.pinterest.com
+*.reddit.com
+*.substack.com
+*.tiktok.com
+*.tumblr.com
+*.twitter.com
+*.washingtonpost.com
+*.x.com
+*.youtube.com
+http://x.com
+https://x.com
