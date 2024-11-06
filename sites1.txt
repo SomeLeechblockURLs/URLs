@@ -11,5 +11,5 @@
 *.twitter.com
 *.washingtonpost.com
 *.x.com
-*://x.com
+x.com
 *.youtube.com
