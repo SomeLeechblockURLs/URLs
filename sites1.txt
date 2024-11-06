@@ -1,9 +1,14 @@
+*.apnews.com
+*.bbc.com
+*.bbc.co.uk
 *.cnn.com
 *.facebook.com
 *.instagram.com
 *.linkedin.com
+*.npr.org
 *.nytimes.com
 *.pinterest.com
+*.reuters.com
 *.reddit.com
 *.substack.com
 *.tiktok.com
