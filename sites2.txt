@@ -18,6 +18,7 @@
 *.mafiadaputaria.info
 *.marcelinha.com
 *.mestredosexo.com
+*.newgrounds.com
 *.newsfilter.org
 *.overmundo.com.br
 *.penisbot.com
