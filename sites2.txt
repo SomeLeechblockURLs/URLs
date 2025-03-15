@@ -1,5 +1,6 @@
 *.4chan.org
-*.8muses.com
+*8muses.com
+*8muses.xxx
 *.bangyoulater.com
 *.botecosujo.com
 *.brasileirinhas.com.br
